@@ -15,7 +15,7 @@ Provide some initial configuration
 
 `kubectl create configmap kubevirt-config -n kubevirt --from-literal debug.useEmulation=true`{{execute}}
 
-Above commands enables 'emulation' to run the VM's as our demo environment is using 'emulated' virtualization.
+Above command enables 'emulation' to run the VM's as our demo environment is using 'emulated' virtualization.
 
 Now let's deploy kubevirt by creating a custom resource:
 
