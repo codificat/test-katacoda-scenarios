@@ -1,1 +1,1 @@
-This scenario demonstrates how kubevirt can be used to start a virtual machine
+This scenario demonstrates how kubevirt can be used to manage Virtual Machines
